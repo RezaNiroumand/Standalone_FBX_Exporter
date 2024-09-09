@@ -1,0 +1,1 @@
+set_maya_env.bat R:\LEMONCORE\WXC_PROJ\animation\season_01\999\01\001\M_Lighting\master\WXC_999_01_001.ma
